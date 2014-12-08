@@ -1,0 +1,12 @@
+{
+  "name": "ul4-js",
+  "version": "0.0.31",
+  "author": "Walter Dörwald <walter.doerwald@livinglogic.de>",
+  "private": true,
+  "main": "ul4.js",
+  "repository" : {
+      "type": "git",
+      "url": "https://github.com/LivingLogic/LivingLogic.Javascript.ul4"
+  },
+  "license": "MIT"
+}
